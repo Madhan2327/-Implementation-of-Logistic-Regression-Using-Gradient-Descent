@@ -74,6 +74,7 @@ print("Predicted Result:",y_prednew)
 
 ## Output:
 ![logistic regression using gradient descent](sam.png)
+
 ![Screenshot 2024-11-24 200410](https://github.com/user-attachments/assets/42dcc862-9fdb-456d-8275-84320b3bc6e3)
 ![Screenshot 2024-11-24 200501](https://github.com/user-attachments/assets/cb71ab93-aed3-4f38-b0b5-64cb322838de)
 ![Screenshot 2024-11-24 200556](https://github.com/user-attachments/assets/ec5bcce9-c2bf-4b20-b2e0-4f40d6d3eebc)
